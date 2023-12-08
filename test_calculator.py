@@ -1,5 +1,4 @@
 # test_calculator.py
-import pytest
 from calculator import calculator
 
 # Test cases
